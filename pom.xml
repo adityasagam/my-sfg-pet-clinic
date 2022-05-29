@@ -43,6 +43,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/adityasagam/my-sfg-pet-clinic.git</developerConnection>
-      <tag>my-sfg-pet-clinic-0.0.1</tag>
+      <tag>my-sfg-pet-clinic-0.0.2</tag>
   </scm>
 </project>
